@@ -378,9 +378,9 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
   
   /* Section Latest news ============================= */
 
-   .row .section-latest-news {
+  .section-latest-news .row {
     flex-direction: row-reverse;
-}
+   }
   /*** 4. CARD ***/
   
   /* Card (all styles)
